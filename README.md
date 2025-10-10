@@ -23,13 +23,32 @@ To help you syndicate your favorite news sources in AI age.
 
 ## Features
 
-- **AI Personal Assistant:** Organizes your inbox and pre-drafts replies in your tone and style.
-- **Cursor Rules for email:** Explain in plain English how your AI should handle your inbox.
-- **Reply Zero:** Track emails to reply to and those awaiting responses.
-- **Smart Categories:** Automatically categorize every sender.
-- **Bulk Unsubscriber:** One-click unsubscribe and archive emails you never read.
-- **Cold Email Blocker:** Auto‑block cold emails.
-- **Email Analytics:** Track your activity and trends over time.
+- **AI Personal Assistant:** Organizes your different sources with your selection.
+- **Smart Categories:** Automatically categorize every article you read based on its content.
+- **Smart Reading:** Automatically summarize your articles and give you the most important information.
+- **Smart Recommendations:** Recommend articles based on your interests and preferences.
+- **Smart Search:** Search for articles based on your interests and preferences.
+- **Smart Analytics:** Analyze your reading habits and preferences.
+
+## Getting Started
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/rssToday/rss.Today-website.git
+```
+
+2. Install dependencies
+
+```bash
+pnpm install
+```
+
+3. Run the development server 
+
+```bash
+pnpm run dev
+``` 
 
 ## Built With
 
