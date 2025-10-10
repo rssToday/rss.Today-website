@@ -1,0 +1,18 @@
+# all log files
+*.log
+
+# all files in node_modules/ directory
+node_modules/
+
+# env
+.env
+.env.local
+
+# .next
+.next/
+
+# .vscode
+.vscode/
+
+
+
