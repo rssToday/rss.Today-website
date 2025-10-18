@@ -6,10 +6,10 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="/logo.png"
+          src="/images/rsstoday-full.png"
           alt="rss.Today logo"
-          width={150}
-          height={32}
+          width={90}
+          height={90}
           priority
         />
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">

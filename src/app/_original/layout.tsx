@@ -27,7 +27,12 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <head>
+          <title>rss.Today</title>
+          <link rel="icon" href="/images/rss-24.png" />
+        </head>
         {children}
+        {modal}
       </body>
     </html>
   );
