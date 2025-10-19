@@ -14,11 +14,11 @@ const links = {
 }
 
 export const siteConfig = {
-  name: "Skateshop",
+  name: "rss.Today",
   description:
-    "An open source e-commerce skateshop build with everything new in Next.js.",
-  url: "https://skateshop.sadmn.com",
-  ogImage: "https://skateshop.sadmn.com/opengraph-image.png",
+    "Synchronize your RSS feeds with the world in AI Age.",
+  url: "https://rss.today",
+  ogImage: "https://rss.today/images/rsstoday.png",
   links,
   mainNav: [
     {
